@@ -1,1 +1,0 @@
-# PIESKI-UW IO project
