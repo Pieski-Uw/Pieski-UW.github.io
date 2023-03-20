@@ -11,6 +11,7 @@ Zbieranie danych ze strony odbywać się za pomocą webscraper'a zapisanego w py
 - Zbieranie danych i zapis w bazie danych sql za pomocą api django do baz danych ze strony schroniska: https://napaluchu.waw.pl/zwierzeta/znalazly-dom/
 - Testowanie poprawności zbieranych danych za pomocą testów django i lokalnej kopii fragmentu strony za pomocą testów django
 - Aktualizowanie danych poprzez ręczne wywołanie webscraper'a lub automatyczne wykonywanie np raz dziennie
+- Zbieranie danych wykorzysta bibliotekę requests i beautiful soup
 
 ### Django
 - Backend bazy danych
